@@ -1,0 +1,6 @@
+objectid,parent id,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,,image/jpeg,test001.jpg,image 1,"Equivalent to ""description"" column from Google Maps",10.0157576,45.1393127,,,,,,,,,,,,
+coll002,,image/jpeg,test002.jpg,Image 2,,,,,,,,,,,,,,,
+coll003,,multiple,,,,45.13555175,10.0230401,,,,,,,,,,,,
+coll004,coll003,image/jpeg,test003.jpg,Image3,,,,,,,,,,,,,,,
+coll005,coll003,image/jpeg,test004.jpg,Image4,,,,,,,,,,,,,,,
